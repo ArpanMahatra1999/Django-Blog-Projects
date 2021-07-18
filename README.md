@@ -11,6 +11,6 @@ Steps to Install:
 1. Copy the contents into any project
 2. pip install django
 3. pip install pillow
-3. Execute or run.
+4. Execute or run.
 
 
